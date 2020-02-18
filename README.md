@@ -5,7 +5,7 @@ Device Tree for Realme XT
 
 ![Realme XT](https://fdn2.gsmarena.com/vv/pics/realme/realme-xt.jpg "Realme XT")
 
-# android_device_xiaomi_RMX1921
+# android_device_realme_RMX1921
 For building TWRP for Realme XT
 
 TWRP device tree for Realme XT
